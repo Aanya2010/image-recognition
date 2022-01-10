@@ -1,0 +1,19 @@
+body {
+    background-color: lightcyan;
+    color: mediumvioletred;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.objects {
+color:orange;
+}
+
+#cam {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
